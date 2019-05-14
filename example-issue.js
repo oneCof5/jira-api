@@ -1,4 +1,5 @@
 // this is an example of a Jira Issue (SCMP-14744)
+// Use this as a baseline for creating a template for creating a new Issue
 {
   "expand": "renderedFields,names,schema,operations,editmeta,changelog,versionedRepresentations",
   "id": "291803",
