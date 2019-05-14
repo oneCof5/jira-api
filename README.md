@@ -7,7 +7,7 @@ POST /rest/api/2/issue
 Create Bulk Issues:
 POST /rest/api/2/issue/bulk
 
-##Katana BAU & Katana OUP OP
+Katana BAU & Katana OUP OP
 * Placeholder for unplanned work
 ** PI Planning Sprint
 ** Sprint 1
@@ -28,7 +28,7 @@ POST /rest/api/2/issue/bulk
 ** Sprint 2
 ** Sprint 3
 
-##X-Ray
+X-Ray
 * MGH Analytics
 ** PI Planning Sprint
 ** Sprint 1
