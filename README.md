@@ -1,23 +1,42 @@
 # jira-api
-This is a collection of JSON files to POST to Jira
+This is a collection of JSON files to POST to Jira.
 
-Katana BAU
-* Placeholder for unplanned work (4)
-* Staging / Production validation (4)
-* Regression (3)
-* SQA Automation
+Create Single Issue:
+POST /rest/api/2/issue
 
-Katana OUP OP
+Create Bulk Issues:
+POST /rest/api/2/issue/bulk
+
+##Katana BAU & Katana OUP OP
 * Placeholder for unplanned work
+** PI Planning Sprint
+** Sprint 1
+** Sprint 2
+** Sprint 3
 * Staging / Production validation
+** PI Planning Sprint (Stag)
+** Sprint 1 (Prod)
+** Sprint 2
+** Sprint 3
 * Regression
+** PI Planning Sprint
+** Sprint 2
+** Sprint 3
 * SQA Automation
+** PI Planning Sprint
+** Sprint 1
+** Sprint 2
+** Sprint 3
 
-X-Ray
+##X-Ray
 * MGH Analytics
+** PI Planning Sprint
+** Sprint 1
+** Sprint 2
+** Sprint 3
 
-Sprints:
-Pi 8 (174-176) Planning: 2439
-Sp174: 2452
-Sp175: 2453
-Sp176: 2454
+Sprint Values for Team Katana:
+* Pi 8 (174-176) Planning: 2439
+* Sp174: 2452
+* Sp175: 2453
+* Sp176: 2454
